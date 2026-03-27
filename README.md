@@ -6,7 +6,7 @@ AI-powered agricultural support system with multilingual text and audio support.
 
 ✅ **Dual Processing Modes**
 - Offline: Dataset-based recommendations
-- Online: AI-enhanced advice using Claude Sonnet
+- Online: AI-enhanced advice using Claude SonneT
 
 ✅ **Multilingual Support**
 - Text responses in 6 languages: English, Hindi, Telugu, Tamil, Kannada, Marathi
