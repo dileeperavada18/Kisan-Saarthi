@@ -14,8 +14,8 @@ CORS(app)
 
 
 # API Keys - Set these as environment variables
-GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY', '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')
-ELEVENLABS_API_KEY = os.getenv('ELEVENLABS_API_KEY', 'sk_11f111575d8a09b12b5eee68327fb2954a9020059aacbdf0')
+GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
+ELEVENLABS_API_KEY = os.getenv('ELEVENLABS_API_KEY')
 
 # Configure Google Gemini
 genai.configure(api_key=GOOGLE_API_KEY)
