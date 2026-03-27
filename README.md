@@ -1,4 +1,4 @@
-# 🌾 Kisan Call Centre Query Assistant - Backend
+# 🌾 Kisan Call Centre Query Assistant
 
 AI-powered agricultural support system with multilingual text and audio support.
 
